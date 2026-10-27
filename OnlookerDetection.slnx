@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OnlookerDetection/OnlookerDetection.vcxproj" Id="dd392357-3332-4962-abb2-7a8cc7734abb" />
+</Solution>
